@@ -6,3 +6,10 @@ F:\QQPCmgr\Desktop\六扇门专用\WordCount\obj\Debug\WordCount.exe
 F:\QQPCmgr\Desktop\六扇门专用\WordCount\obj\Debug\WordCount.pdb
 F:\QQPCmgr\Desktop\六扇门专用\WordCount\bin\Debug\WordCount.exe.CodeAnalysisLog.xml
 F:\QQPCmgr\Desktop\六扇门专用\WordCount\bin\Debug\WordCount.exe.lastcodeanalysissucceeded
+F:\QQPCmgr\Desktop\tools\WordCount\201731031124\WordCount\bin\Debug\WordCount.exe.config
+F:\QQPCmgr\Desktop\tools\WordCount\201731031124\WordCount\bin\Debug\WordCount.exe
+F:\QQPCmgr\Desktop\tools\WordCount\201731031124\WordCount\bin\Debug\WordCount.pdb
+F:\QQPCmgr\Desktop\tools\WordCount\201731031124\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+F:\QQPCmgr\Desktop\tools\WordCount\201731031124\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+F:\QQPCmgr\Desktop\tools\WordCount\201731031124\WordCount\obj\Debug\WordCount.exe
+F:\QQPCmgr\Desktop\tools\WordCount\201731031124\WordCount\obj\Debug\WordCount.pdb
