@@ -2,12 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace WordCount
+namespace WordCountGUI
 {
-   public class CountCharacters
+    class CountCharacters
     {
         /// <summary>
         /// 统计字符串中所有单词总数

@@ -1,0 +1,10 @@
+F:\QQPCmgr\Desktop\tools\WordCountGUI\bin\Debug\WordCountGUI.exe.config
+F:\QQPCmgr\Desktop\tools\WordCountGUI\bin\Debug\WordCountGUI.exe
+F:\QQPCmgr\Desktop\tools\WordCountGUI\bin\Debug\WordCountGUI.pdb
+F:\QQPCmgr\Desktop\tools\WordCountGUI\obj\Debug\WordCountGUI.csprojAssemblyReference.cache
+F:\QQPCmgr\Desktop\tools\WordCountGUI\obj\Debug\WordCountGUI.Form1.resources
+F:\QQPCmgr\Desktop\tools\WordCountGUI\obj\Debug\WordCountGUI.Properties.Resources.resources
+F:\QQPCmgr\Desktop\tools\WordCountGUI\obj\Debug\WordCountGUI.csproj.GenerateResource.cache
+F:\QQPCmgr\Desktop\tools\WordCountGUI\obj\Debug\WordCountGUI.csproj.CoreCompileInputs.cache
+F:\QQPCmgr\Desktop\tools\WordCountGUI\obj\Debug\WordCountGUI.exe
+F:\QQPCmgr\Desktop\tools\WordCountGUI\obj\Debug\WordCountGUI.pdb

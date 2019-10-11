@@ -2,15 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.IO;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 
-namespace WordCount
+namespace WordCountGUI
 {
     class WordString
     {
-        public  List<string> wordString(string text)
+        public List<string> wordString(string text)
         {
             List<String> temp = new List<string>();
             MatchCollection matches = Regex.Matches(text, @"[A-Za-z]{4}[A-Za-z0-9]*(\W|$)");

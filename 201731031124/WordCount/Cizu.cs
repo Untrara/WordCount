@@ -2,16 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace WordCount
+namespace WordCountGUI
 {
-    public class Cizu
+    class CiZu
     {
-        public string numOfCiZu(List<string>wordString, int m)
+        public string numOfCiZu(List<string> wordString, int m)
         {
-            
+
             List<String> ans = new List<string>();
             Dictionary<string, int> letter = new Dictionary<string, int>();
             string ret = null;
